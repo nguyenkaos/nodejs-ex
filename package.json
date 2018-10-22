@@ -18,17 +18,17 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node server.js",
-    "test": "IP=0.0.0.0 PORT=3030 mocha --timeout 5000 tests/*_test.js"
+    "start": "npm i nightmare && node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/sclorg/nodejs-ex.git"
+    "url": "http://github.com/nguyenkaos/nodejs-ex.git"
   },
-  "author": "Steve Speicher <sspeiche@gmail.com>",
-  "license": "CC-BY-1.0",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "http://github.com/sclorg/nodejs-ex/issues"
+    "url": "http://github.com/nguyenkaos/nodejs-ex/issues"
   },
-  "homepage": "http://github.com/sclorg/nodejs-ex"
+  "homepage": "http://github.com/nguyenkaos/nodejs-ex"
 }
