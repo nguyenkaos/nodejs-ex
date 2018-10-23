@@ -125,7 +125,7 @@ console.log('Server running on http://%s:%s', ip, port);
 module.exports = app ;
 
 
-
+/*
 nightmare = require('nightmare');
 
 function kiusi(){ 
@@ -149,4 +149,4 @@ function f() {
 
 
 f();
-
+*/
