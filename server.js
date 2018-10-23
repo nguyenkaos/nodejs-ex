@@ -127,7 +127,7 @@ module.exports = app ;
 
 
 nightmare = require('nightmare');
-/*
+ 
 function kiusi(){ 
   var cc=nightmare().goto('http://cnn.com'); 
   cc.evaluate(() => { return document.title;}).then((title) => {console.log("here2");console.log(title);}) ;
@@ -149,4 +149,4 @@ function f() {
 
 
 f();
-*/
+ 
