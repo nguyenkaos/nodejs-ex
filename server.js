@@ -136,7 +136,7 @@ function kiusi(){
   console.log('----XONG--------');
    
 }
-
+/*
 
 function f() { 
     console.log('-111111111111-------trong f -----------');
@@ -149,4 +149,4 @@ function f() {
 
 
 f();
- 
+ */
