@@ -19,7 +19,7 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "npm i casperjs && node server.js", 
+    "start": "npm i puppeteer && node server.js", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
